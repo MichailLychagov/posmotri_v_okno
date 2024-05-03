@@ -147,6 +147,7 @@ ol {
   height: 298px;
   width: 399px;
   overflow: auto;
+  overflow-x: hidden;
   margin-top: 25px;
 }
 
@@ -258,7 +259,7 @@ button {
 }
 
 .more-button {
-  width: 399px;
+  width: 100%;
   height: 34px;
 }
 
